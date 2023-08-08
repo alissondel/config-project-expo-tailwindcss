@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "config-project-expo-tailwindcss",
+    "slug": "config-project-expo-tailwindcss"
+  }
+}
